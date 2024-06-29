@@ -160,9 +160,7 @@ with gr.Blocks() as demo:
     +
     \\left(\\text{PreferSugar} \\cdot SugarNormalised_i\\right)
     \\right)
-    $$
-    
-
+    $$ 
     
     ## Use the sliders to adjust your preferences.
     """
