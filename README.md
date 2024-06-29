@@ -9,6 +9,8 @@ pinned: false
 
 # McSolver - I'm Solvin' It
 
+[McSolver Preview](https://huggingface.co/spaces/typhoonalex/McSolver)
+
 ![Ronald Mcdonald sitting on a bench](ronald.png)
 
 ## Welcome to McSolver, the ultimate tool for balancing macronutrients subject to a daily calorie intake at McDonald's. 
