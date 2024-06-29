@@ -1,3 +1,11 @@
+---
+title: McSolver
+sdk: gradio
+sdk_version: 4.37.2
+app_file: mcapp.py
+---
+
+
 # McSolver - I'm Solvin' It
 
 ![Ronald Mcdonald sitting on a bench](ronald.png)
@@ -61,3 +69,12 @@ pip install -r requirements.txt
 ```bash
 gradio mcapp.py
 ```
+
+## Sync with HuggingFace Spaces Repo
+
+https://huggingface.co/spaces/typhoonalex/McSolver
+
+```bash
+git push --force space main
+```
+
