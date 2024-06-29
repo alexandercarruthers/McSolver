@@ -3,6 +3,7 @@ title: McSolver
 sdk: gradio
 sdk_version: 4.37.2
 app_file: mcapp.py
+pinned: false
 ---
 
 
